@@ -11,3 +11,4 @@ langchain-text-splitters
 langchain-community
 langchain-huggingface
 sentence-transformers
+langgraph-checkpoint-sqlite
